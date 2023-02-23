@@ -8,7 +8,8 @@
 ----
 #### 👨‍👦‍👦 All Developers welcome to my Projects:
 #### ✨ For any Information, 💥 Mistakes or others send me an E-Mail:
-#### ✉️ kurschristian@gmail.com
+![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
+#### kurschristian@gmail.com
 ----
 #### ![FlagGIF](https://user-images.githubusercontent.com/40143278/220921337-d85e6bd7-6e97-42bd-b588-52d38c1f7594.gif)
 Germany, Bonn, February 21, 2023
