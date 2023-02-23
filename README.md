@@ -18,7 +18,7 @@
 ----
 ### Note:
 #### Windows 10/11 Professional Edition is an Workstation,
-#### if you have License and Rights, you communicat with Servers.
+#### if you have License and Rights, you can communicate with Servers.
 #### Windows 10/11 come with many Network Libraries and Functions.
 #### Downloads:
 #### Secretlock.exe and VFL.dll for test simple App.
