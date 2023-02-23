@@ -11,14 +11,6 @@
 ![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
 #### kurschristian@gmail.com
 ----
-- ![FlagGIF](https://user-images.githubusercontent.com/40143278/220921337-d85e6bd7-6e97-42bd-b588-52d38c1f7594.gif)
-- Germany, Bonn, February 21, 2023
-----
-#### Copyright © 2017-2023 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
-#### Copyright © 2017-2023 - Visual Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
-----
-#### Copyright © 1982-2023 - Trademarks, Websites, Visual Studio, Windows by Microsoft Corporation.
-----
 ### Sample SecretLock
 ----
 ### What's SecretLock ?
@@ -36,4 +28,10 @@
 #### Give me Feedback on:
 #### https://wwww.github.com/tipplin
 #### kurschristian@gmail.com
+#### Germany, Bonn, February 21, 2023
+----
+#### Copyright © 2017-2023 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
+#### Copyright © 2017-2023 - Visual Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
+----
+#### Copyright © 1982-2023 - Trademarks, Websites, Visual Studio, Windows by Microsoft Corporation.
 ----
